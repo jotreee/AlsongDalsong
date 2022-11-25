@@ -2,9 +2,9 @@
 
 SSAFY 7기 특화 빅데이터 추천 프로젝트
 
-<img src="/uploads/d4bc93dce6a31af56f4f3853430b7f1e/logo.jpg" width="50%" height="50%">
+![logo](/resources/logo.jpg)
 
-> 사용자의 일기 내용을 분석하여 그날의 감정에 맞는 플레이리스트를 추천해주는 서비스
+사용자의 일기 내용을 분석하여 그날의 감정에 맞는 플레이리스트를 추천해주는 서비스
 
 ## 목차
 
@@ -28,35 +28,35 @@ SSAFY 7기 특화 빅데이터 추천 프로젝트
 
 1. 일기 작성
 
-![일기작성](/uploads/204636e06a48cec18bc3cd02d2b3388b/일기작성.PNG)
+![일기작성](/resources/일기작성.PNG)
 
 </br>
 
-![일기상세](/uploads/0cb1151a8195ccb6c7ea47663fd00897/일기상세.PNG)
+![일기상세](/resources/일기상세.PNG)
 
 </br>
 
 2. 스티커
 
-![스티커](/uploads/95fdb25b8eabe8b0ddae4808bff3d9e5/스티커.PNG)
+![스티커](/resources/스티커.PNG)
 
 </br>
 
 3. 음악 추천
 
-![음추목록](/uploads/baf541f8c56acec02bee8ed933da925f/음추목록.PNG)
+![음추목록](/resources/음추목록.PNG)
 
 </br>
 
-![음추](/uploads/4d09da6699aeea4ef082ae906e481047/음추.PNG)
+![음추](/resources/음추.PNG)
 
 </br>
 
-![마플목록](/uploads/0cf3347d994fd5aa110d7e5c7af3bb7f/마플목록.PNG)
+![마플목록](/resources/마플목록.PNG)
 
 </br>
 
-![마플](/uploads/cf1e9c2fa4e93471b631199121b25927/마플.PNG)
+![마플](/resources/마플.PNG)
 
 </br>
 
@@ -68,15 +68,15 @@ SSAFY 7기 특화 빅데이터 추천 프로젝트
 
 ## 와이어프레임
 
-![와이어프레임](/uploads/766be01e94fc7bf43609f319afb75ab7/와이어프레임.png)
+![와이어프레임](/resources/와이어프레임.png)
 
 ## ERD
 
-![erd](/uploads/d8c453c24f51714336813e78dc74a5bd/erd.png)
+![erd](/resources/erd.png)
 
 ## 시스템 아키텍처
 
-![시스템_아키텍처](/uploads/6fdb14847750902c1ebd1ae396c4ca0c/시스템_아키텍처.png)
+![시스템_아키텍처](/resources/시스템_아키텍처.png)
 
 ## API 명세서
 
@@ -112,6 +112,6 @@ SSAFY 7기 특화 빅데이터 추천 프로젝트
 
 
 ## CI/CD
-|<img src="/uploads/589a0439a71fb84a844d1814f42b72bf/AWS-EC2.svg" alt="EC2" width="50px" height="50px"/>|<img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="jenkins" width="50px" height="50px"/>|<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="50px" height="50px"/>|<img src="https://wtit.com/wp-content/uploads/2022/03/NGINX-Icon.svg" width="50px" />
+|<img src="/resources/AWS-EC2.svg" alt="EC2" width="50px" height="50px"/>|<img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="jenkins" width="50px" height="50px"/>|<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="50px" height="50px"/>|<img src="https://wtit.com/wp-content/uploads/2022/03/NGINX-Icon.svg" width="50px" />
 |:-:|:-:|:-:|:-:|
 |AWS EC2|Jenkins|Docker|Nginx|
